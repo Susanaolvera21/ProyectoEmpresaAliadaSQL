@@ -120,3 +120,8 @@ ORDER BY
     cal.Year;
 
 	----
+-- Script actualizado el 19/09/2025 para pruebas de commit y push
+# Proyecto Empresa Aliada - SQL
+Este repositorio contiene scripts de creación y análisis de ventas.
+
+
